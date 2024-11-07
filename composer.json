@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "botman/botman": "^2.8",
+        "botman/driver-web": "^1.5",
+        "symfony/cache": "^7.1"
+    }
+}
